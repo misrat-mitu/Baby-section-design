@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+}
+
+.baby-1 {
+  width: 100%;
+  height: 400px;
+  background-color: slateblue;
+}
+
+.baby-2 {
+  width: 100%;
+  height: 300px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
+    url("../img/baby.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.baby-3 {
+  width: 100%;
+  height: 400px;
+  background-color: slateblue;
+}
+
+.baby-2 h1 {
+  text-align: center;
+  font-family: sigmar one;
+  color: #fff;
+}
+
+.baby-2 p {
+  color: yellow;
+  font-family: Edwardian Script ITC;
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.baby-2 a {
+  text-decoration: none;
+  background-color: #fff;
+  color: black;
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
